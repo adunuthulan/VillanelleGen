@@ -1,0 +1,159 @@
+## Model 
+gpt2
+
+## Prompt
+prompt = "\
+== Villanelle named 'Self Help' ==\n\
+\n\
+What delusion are you under?\n\
+The life he hid knocked you flat.\n\
+You see lightning but not thunder.\n\
+\n\
+What God joined let none put asunder.\n\
+Did God know you'd marry a rat?\n\
+What delusion are you under?\n\
+\n\
+His online persona stunned her\n\
+like when you started to chat.\n\
+You see lightning but not thunder.\n\
+\n\
+To victors go the plunder:\n\
+crown them with a baseball bat.\n\
+What delusion are you under?\n\
+\n\
+The kind that cause blunder.\n\
+Is there other kind than that?\n\
+You see lightning but not thunder.\n\
+\n\
+the world's a wonder.\n\
+keep it thrilling under your hat.\n\
+What delusion are you under?\n\
+You see lightning but not thunder.\n\n\
+"
+
+## HParams
+max_length=600,
+min_length=200,
+top_k=50,
+top_p=0.95,
+do_sample=True,
+repetition_penalty=1,
+length_penalty=1,
+early_stopping=True,
+
+## output
+== Villanelle named 'Fire' ==
+This is a poem about fire.
+With the little I know,
+I tell you what I've heard.
+
+
+[Fire] (I am on fire.)
+
+There is nothing, nothing that needs to happen.
+
+I'm going to make it rain
+
+because of my fire.
+
+
+[I'm on fire.]
+
+The sky is a red.
+
+I am going to make it rain
+
+because of my fire.
+
+
+[Fire, fire.]
+
+
+[Fire, fire.]
+
+I'm on fire.
+
+fire.
+
+my fire.
+
+
+[Fire, fire.]
+
+My fire.
+
+Fire.
+
+
+== Villanelle named 'Mistery' ==
+
+I'm on fire.
+
+What illusion were you under?
+
+You see thunder but not lightning.
+
+What delusion are you under?
+
+Your life would make you a fool.
+
+
+== Villanelle named 'Cuck' ==
+
+I'm on fire.
+
+What illusion were you under?
+
+You see lightning but not lightning.
+
+You see thunder but not lightning.
+
+What delusion are you under?
+
+The only way you would live is to live.
+
+You see lightning but not lightning.
+
+To victors go the plunder:
+
+crown them with a baseball bat.
+
+What delusion are you under?
+
+The kind that cause blunder.
+
+Is there other kind than that?
+
+Fire, fire.
+
+
+[Fire, fire.]
+
+I'm on fire.
+
+What illusion were you under?
+
+You see lightning but not lightning.
+
+Fire, fire.
+
+
+[Fire, fire.]
+
+I'm on fire.
+
+What illusion were you under?
+
+You see lightning but not lightning.
+
+Fire, fire.
+
+
+[Fire, fire.]
+
+Fire, fire.
+
+
+== Villanelle named 'Miss Militia' ==
+
+
